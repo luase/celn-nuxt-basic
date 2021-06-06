@@ -5,7 +5,9 @@
 </template>
 
 <script>
-
+export default {
+  layout: 'nosotros'
+}
 </script>
 
 <style scoped>
