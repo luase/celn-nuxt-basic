@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>default layout</h1>
+    <h1 class="m-3">
+      JSAS nuxt-basic
+    </h1>
     <Nuxt />
   </div>
 </template>
